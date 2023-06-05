@@ -3,7 +3,6 @@ layout: post
 title: Mi primer paso en Humanidades Digitales > Estematología
 subtitle: Métodos interdisciplinares para encontrar la genealogía de la transmisión de manuscritos - El caso del περί ἀρετῆς ἀριστοτέλοσς
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [Digital humanities - Stemmatology]
 comments: true
 ---
@@ -26,6 +25,7 @@ Hice uso de programas tales como : [CollateX](https://collatex.net/demo/), [PUAP
 [![Stemma Coducim de περί ἀρετῆς](/assets/img/stemma.png "Stemma Codicum")](/assets/img/stemmabg.png "Stemma Codicum")
 
 **Conclusión**
+
 Después de llevar a cabo los análisis correspondientes, fue posible formular una propuesta de stemma codicum de los manuscritos estudiados, basado en la evidencia textual presente en los documentos. Esta propuesta de stemma puede llegar a ser refutada a la luz de nueva evidencia.
 Gracias a este trabajo aprendí acerca de la interdisciplinariedad, característica central de la investigación en Humanidades Digitales. Así mismo, logré desarrollar habilidades en programación, paleografía y análisis textual.
 
