@@ -22,6 +22,6 @@ Hice uso de programas tales como : [CollateX](https://collatex.net/demo/), [PUAP
 | K | ca. 1446 | Firenze, Laurentianus Pluteus 86.19 |
 
 **El árbol resultante fue el siguiente**
-![Stemma Coducim de περί ἀρετῆς](/assets/images/stemma.png "Stemma Codicum")
+![Stemma Coducim de περί ἀρετῆς](/assets/img/stemma.png "Stemma Codicum")
 
 Gracias a este trabajo aprendí acerca de la interdisciplinariedad, característica central de la investigación en Humanidades Digitales. Así mismo, logré desarrollar habilidades en programación, paleografía y análisis textual.
