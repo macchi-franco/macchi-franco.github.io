@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Un peu d'information à propos de moi
+subtitle: Mon parcours dans la Philologie et les Humanités Numériques
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Je m'appelle David Macchi, à continuation quelques points sur lesquels je m'intéresse dans le monde académique :
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- Les langues classiques et la transmission de l'héritage culturel.
+- L'exploitation de techniques numériques pour la mise en valeur du patrimoine culturel.
+- Programmation en Python et bases de données
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Je suis colombien, j'aime les langues, la programmation, la lecture et le cinéma.
