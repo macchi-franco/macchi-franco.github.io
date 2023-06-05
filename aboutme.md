@@ -10,6 +10,6 @@ Je m'appelle David Macchi, à continuation quelques points sur lesquels je m'int
 - L'exploitation de techniques numériques pour la mise en valeur du patrimoine culturel.
 - Programmation en Python et bases de données
 
-### My story
+### Mes infos
 
 Je suis colombien, j'aime les langues, la programmation, la lecture et le cinéma.
