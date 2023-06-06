@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Mi primer paso en Humanidades Digitales > Estematología
-subtitle: Métodos interdisciplinares para encontrar la genealogía de la transmisión de manuscritos - El caso del περί ἀρετῆς ἀριστοτέλοσς
-gh-repo: daattali/beautiful-jekyll
+subtitle: Métodos interdisciplinares para encontrar la genealogía de la transmisión de manuscritos - El caso del περί ἀρετῆς ἀριστοτέλους
+cover-img: /assets/img/mss.jpg
+thumbnail-img: /assets/img/stemma.png
 tags: [Digital humanities - Stemmatology]
 comments: true
 ---
