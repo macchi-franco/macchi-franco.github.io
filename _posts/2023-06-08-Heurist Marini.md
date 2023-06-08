@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Heurist et L'Archive Roberto Marini
+title: Heurist et l'Archive Roberto Marini
 subtitle: Mise au point d'une basée de données d'affiches sur Heurist
 cover-img: /assets/img/composite aff.jpg
 thumbnail-img: /assets/img/thumb-heurist-marini.jpg
