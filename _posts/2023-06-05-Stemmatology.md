@@ -8,7 +8,7 @@ tags: [Digital humanities, Stemmatology]
 comments: true
 ---
 
-En este trabajo de culminación de estudios de pregrado de la [Licenciatura en Español y Filología Clásica](https://www.humanas.unal.edu.co/2017/unidades-academicas/departamentos/linguistica/programas/pregrados/espanol-y-filologia-clasica){:target="_blank"} de la [Universidad Nacional de Colombia](https://bogota.unal.edu.co/){:target="_blank"} realicé una exploración y puesta en práctica de una metodología áltamente enriquecida con técnicas de procesamiento automático de texto e inferencia de genealogías según la cladística en el dominio de la biología, con el fin de procesar la información textual de un grupo de 5 manuscritos y obtener un estema que representa la transmisión del texto περί ἀρετῆς, de inspirción aristotélica.
+En este trabajo de culminación de estudios de pregrado de la [Licenciatura en Español y Filología Clásica](https://www.humanas.unal.edu.co/2017/unidades-academicas/departamentos/linguistica/programas/pregrados/espanol-y-filologia-clasica) de la [Universidad Nacional de Colombia](https://bogota.unal.edu.co/) realicé una exploración y puesta en práctica de una metodología áltamente enriquecida con técnicas de procesamiento automático de texto e inferencia de genealogías según la cladística en el dominio de la biología, con el fin de procesar la información textual de un grupo de 5 manuscritos y obtener un estema que representa la transmisión del texto περί ἀρετῆς, de inspirción aristotélica.
 
 Hice uso de programas tales como : [CollateX](https://collatex.net/demo/), [PUAP](https://paup.phylosolutions.com/), [Splits Tree](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/algorithms-in-bioinformatics/software/splitstree/) y [Stemmatology](https://github.com/Jean-Baptiste-Camps/stemmatology) y me señí a los principios del proceder filológico con perspectiva digital expuestos por Tara Andrews y Peter Robinson.
 
@@ -24,7 +24,7 @@ Hice uso de programas tales como : [CollateX](https://collatex.net/demo/), [PUAP
 
 **El árbol resultante fue el siguiente**
 
-[![Stemma Codicum de περί ἀρετῆς](/assets/img/stemma.png "Stemma Codicum")](/assets/img/stemmabg.png "Stemma Codicum"){:target="_blank"}
+[![Stemma Codicum de περί ἀρετῆς](/assets/img/stemma.png "Stemma Codicum")](/assets/img/stemmabg.png "Stemma Codicum")
 
 **Conclusión**
 
