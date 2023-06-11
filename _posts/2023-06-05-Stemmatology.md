@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/stemma2.jpg
 tags: [Digital humanities, Stemmatology]
 comments: true
 ---
+<base target="_blank">
 
 En este trabajo de culminación de estudios de pregrado de la [Licenciatura en Español y Filología Clásica](https://www.humanas.unal.edu.co/2017/unidades-academicas/departamentos/linguistica/programas/pregrados/espanol-y-filologia-clasica) de la [Universidad Nacional de Colombia](https://bogota.unal.edu.co/) realicé una exploración y puesta en práctica de una metodología áltamente enriquecida con técnicas de procesamiento automático de texto e inferencia de genealogías según la cladística en el dominio de la biología, con el fin de procesar la información textual de un grupo de 5 manuscritos y obtener un estema que representa la transmisión del texto περί ἀρετῆς, de inspirción aristotélica.
 
