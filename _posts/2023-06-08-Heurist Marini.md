@@ -8,7 +8,7 @@ share-img: /assets/img/composite aff.jpg
 tags: [Digital Humanities, Heurist, Archivio Roberto Marini, Base de données]
 ---
 
-[Base de données des affiches de l'Archive Roberto Marini sur Heurist](https://heurist.huma-num.fr/HEURIST/heurist/?db=jdmac_marini2&website&id=597&pageid=590#)
+[Base de données des affiches de l'Archive Roberto Marini sur Heurist](https://heurist.huma-num.fr/HEURIST/heurist/?db=jdmac_marini2&website&id=597&pageid=590)
 
 **Heurist**
 
