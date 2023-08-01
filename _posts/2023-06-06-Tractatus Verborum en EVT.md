@@ -1,7 +1,7 @@
 ---
 layout: post
-title: RM5 and EVT
-subtitle: Project for the Biblioteca Nacional de Colombia
+title: RM5 en la plataforma EVT
+subtitle: Proyecto para la Biblioteca Nacional de Colombia
 cover-img: /assets/img/RM5_rel.jpg
 thumbnail-img: /assets/img/incipit.jpg
 share-img: /assets/img/RM5_rel.jpg
