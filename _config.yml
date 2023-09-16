@@ -46,6 +46,7 @@ round-avatar: true
 #####################################
 
 # Select the social network links that you want to show in the footer.
+# You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jesus_david.macchi_franco@edu.univ-fcomte.fr"
@@ -75,6 +76,7 @@ social-network-links:
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
+#  gitlab: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
