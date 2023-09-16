@@ -9,4 +9,4 @@ tags: [Digital Humanities, Ms.5, Transkribus, HTR, AI]
 ---
 <base target="_blank">
 
-[Post second place Correct-a-thon](https://parisbible.github.io/2023-05-19-PBPCorrect-a-Thon-Besancon2-BesanconMs5/)
+[Blog post of participation in the Correct-a-thon](https://parisbible.github.io/2023-05-19-PBPCorrect-a-Thon-Besancon2-BesanconMs5/)
