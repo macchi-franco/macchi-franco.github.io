@@ -3,7 +3,7 @@ layout: post
 title: Bibles Across Nations - La Biblia del Oso 
 subtitle: Participation dans le projet en ligne sur les Bibles à travers l'histoire et la géographie 
 cover-img: /assets/img/bib1.jpg
-thumbnail-img: /assets/img/bibThumb.jpg
+thumbnail-img: /assets/img/bibThumb.png
 share-img: /assets/img/bib1.jpg
 tags: [Digital Humanities, Bible, UBFC]
 ---
