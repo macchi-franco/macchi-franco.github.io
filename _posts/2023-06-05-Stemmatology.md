@@ -33,4 +33,4 @@ Después de llevar a cabo los análisis correspondientes, fue posible formular u
 
 Gracias a este trabajo aprendí acerca de la interdisciplinariedad, característica central de la investigación en Humanidades Digitales. Así mismo, logré desarrollar habilidades en programación, paleografía y análisis textual. De igual forma, la aplicación de una metodología que aprovecha los recursos tecnólogicos actuales, realizada por primera vez en el programa de Filología Clásica para la obtención de stemmata, se alinea con las perspectivas contempóraneas de investigación y se presenta como un ejemplo de las humanidades digitales en Colombia.
 
-El documento completo: [Estematología y Humanidades Digitales](https://drive.google.com/file/d/1-PLVs4lnWSOn1kmHQGvdOj4pQ2Z_BQ-J/view?usp=drive_link)]
+El documento completo: [Estematología y Humanidades Digitales](https://drive.google.com/file/d/1-PLVs4lnWSOn1kmHQGvdOj4pQ2Z_BQ-J/view?usp=sharing)
